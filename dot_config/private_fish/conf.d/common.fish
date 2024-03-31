@@ -2,5 +2,5 @@
 set -g fish_greeting
 
 # Variables
-set -U EDITOR vim
-set -U SUDO_EDITOR /usr/bin/vim
+set -U EDITOR nvim
+set -U SUDO_EDITOR /usr/bin/nvim
