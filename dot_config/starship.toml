@@ -14,6 +14,7 @@ disabled = true
 
 [conda]
 ignore_base = false
+# Use `conda config --set changeps1 False` to remove default conda prompt
 
 [cmd_duration]
 min_time=4
