@@ -3,4 +3,5 @@ set -g fish_greeting
 
 # Variables
 set -U EDITOR nvim
+set -U VISUAL nvim
 set -U SUDO_EDITOR /usr/bin/nvim
