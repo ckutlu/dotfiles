@@ -1,6 +1,3 @@
-import = [
-  "/home/ckutlu/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/Tokyonight_Night.toml",
-]
 
 [env]
 TERM = "xterm-256color"
@@ -27,3 +24,8 @@ style = "Regular"
 [[keyboard.bindings]]
 action = "ToggleFullscreen"
 key = "F11"
+
+[general]
+import = [
+  "/home/ckutlu/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/Tokyonight_Night.toml",
+]
