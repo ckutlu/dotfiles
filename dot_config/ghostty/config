@@ -1,0 +1,9 @@
+font-family = "0xProto Nerd Font Mono"
+font-size = 11.0
+theme = tokyonight
+command = /usr/bin/fish
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+keybind = f11=toggle_fullscreen
+keybind = f12=toggle_window_decorations
