@@ -4,6 +4,6 @@ theme = tokyonight
 command = /usr/bin/fish
 cursor-style = block
 cursor-style-blink = true
-shell-integration-features = no-cursor
+shell-integration-features = no-cursor,ssh-terminfo,ssh-env
 keybind = f11=toggle_fullscreen
 keybind = f12=toggle_window_decorations
